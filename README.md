@@ -35,7 +35,7 @@ This project explores **three approaches**:
 
 ## 💻 Code Implementation
 
-You can open and run the **Jupyter Notebook** `Matrix_Exponentiation.ipynb` to explore:
+You can open and run the **Jupyter Notebook** `Implement-matrix-exponentiation-for-a-square-matrix.ipynb` to explore:
 - Validation of square matrices
 - Naive implementation with repeated multiplication
 - Fast implementation using **binary exponentiation**
@@ -61,10 +61,11 @@ The `Matrix_Exponentiation_Report.docx` includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/bhayanimahek/Implement-matrix-exponentiation-for-a-square-matrix.git
+   cd Task_01
 2. Open Jupyter Notebook:
-   ```jupyter notebook exponentiation-square-matrix-using-numpy.ipynb
+   ```bash
+   jupyter notebook exponentiation-square-matrix-using-numpy.ipynb
 3. Run all cells and view results.
 
    ## 📌 Author
