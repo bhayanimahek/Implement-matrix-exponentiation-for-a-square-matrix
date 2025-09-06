@@ -62,7 +62,7 @@ The `Matrix_Exponentiation_Report.docx` includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/bhayanimahek/Implement-matrix-exponentiation-for-a-square-matrix.git
-   cd Task_01
+   cd Implement-matrix-exponentiation-for-a-square-matrix
 2. Open Jupyter Notebook:
    ```bash
    jupyter notebook exponentiation-square-matrix-using-numpy.ipynb
