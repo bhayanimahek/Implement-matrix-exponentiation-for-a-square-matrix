@@ -5,7 +5,7 @@ This project demonstrates **Matrix Exponentiation** using three different approa
 ---
 
 ## 📂 Project Structure
-
+```bash
 ├── exponentiation-square-matrix-using-numpy.ipynb # Jupyter Notebook containing full code
 ├── Matrix_Exponentiation_Report.docx # Detailed report (implementation + analysis)
 └── README.md
